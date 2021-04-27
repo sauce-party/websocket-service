@@ -5,7 +5,7 @@
   "description": "Manage tickets distribution via WS channel",
   "license": "MIT",
   "dependencies": {
-    "redis": "^3.0.2",
+    "redis": "^3.1.1",
     "uuid": "^8.3.0",
     "winston": "^3.3.3",
     "ws": "^7.3.1"
